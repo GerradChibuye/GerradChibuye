@@ -1,6 +1,6 @@
 Hello, I am Gerrad Chibuye
-I am an ambitious and disciplined Information Technology student with a primary focus on Computer Networking and Cloud Engineering. I am building strong foundations in network design, routing and switching, and TCP/IP, while using Python as a supporting skill for automation and problem-solving in IT environments.
-I believe in continuous improvement (Kaizen) and deliberately document my learning through hands-on labs, structured notes, and practical projects. My long-term goal is to grow into a Network and Cloud Engineer capable of contributing to major organizations, preferably in a remote or global setting..
+I am an ambitious and disciplined Information Technology student with a primary focus on Computer Networking,Systems and Cloud Engineering. I am building strong foundations in network design, routing and switching, and TCP/IP, while using Python as a supporting skill for automation and problem-solving in IT environments.
+I believe in continuous improvement (Kaizen) and deliberately document my learning through hands-on labs, structured notes, and practical projects. My long-term goal is to grow into a Systems and Cloud Engineer capable of contributing to major organizations, preferably in a remote or global setting..
 
 Current Focus Areas
 - Networking Mastery
@@ -30,8 +30,9 @@ I aim to build a career grounded in:
  Tools & Technologies
 - Python  
 - Cisco Packet Tracer  
-- Git & GitHub   
-- HTML/CSS/JavaScript (coming soon)
+- Git & GitHub
+- Virtual machines
+- Linux
 - Cloud technologies (learning path ahead)
 
 
